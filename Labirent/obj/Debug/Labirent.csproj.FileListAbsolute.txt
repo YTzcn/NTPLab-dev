@@ -1,0 +1,6 @@
+C:\Users\yahya\source\repos\OopLab\Labirent\bin\Debug\Labirent.exe.config
+C:\Users\yahya\source\repos\OopLab\Labirent\bin\Debug\Labirent.exe
+C:\Users\yahya\source\repos\OopLab\Labirent\bin\Debug\Labirent.pdb
+C:\Users\yahya\source\repos\OopLab\Labirent\obj\Debug\Labirent.csproj.CoreCompileInputs.cache
+C:\Users\yahya\source\repos\OopLab\Labirent\obj\Debug\Labirent.exe
+C:\Users\yahya\source\repos\OopLab\Labirent\obj\Debug\Labirent.pdb

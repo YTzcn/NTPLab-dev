@@ -1,0 +1,6 @@
+C:\Users\yahya\source\repos\OopLab\OrtalamaMedyan,\obj\Debug\OrtalamaMedyan,.csproj.CoreCompileInputs.cache
+C:\Users\yahya\source\repos\OopLab\OrtalamaMedyan,\bin\Debug\OrtalamaMedyan,.exe.config
+C:\Users\yahya\source\repos\OopLab\OrtalamaMedyan,\bin\Debug\OrtalamaMedyan,.exe
+C:\Users\yahya\source\repos\OopLab\OrtalamaMedyan,\bin\Debug\OrtalamaMedyan,.pdb
+C:\Users\yahya\source\repos\OopLab\OrtalamaMedyan,\obj\Debug\OrtalamaMedyan,.exe
+C:\Users\yahya\source\repos\OopLab\OrtalamaMedyan,\obj\Debug\OrtalamaMedyan,.pdb
